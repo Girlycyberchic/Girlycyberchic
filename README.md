@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Girlycyberchic
 - 👀 I’m interested in ... Linux, Networking, Helpdesk, DevOps, Security, etc.
-- 🌱 I’m currently learning ... Linux
+- 🌱 I’m currently learning ... Linux and SQL
 - 💞️ I’m looking to collaborate on ... All things IT
 - 📫 How to reach me ... https://twitter.com/girlycyberchic
 
